@@ -1,8 +1,10 @@
+python-3.8.12
 torch>=2.2.0
 transformers==4.12.3
 gradio==2.3.9
 Pillow==8.3.1
 numpy>=1.26
-tokenizers>=0.10.3
+tokenizers==0.10.3
+
 
 
