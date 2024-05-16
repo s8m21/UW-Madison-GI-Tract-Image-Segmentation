@@ -1,5 +1,5 @@
 # OncoScan AI: Image-Segmentation-for-Gastrointestinal-Tract-Cancer
-This repository contains codebase for the image segmentation task as part of our capstone project titled <b>OncoScan AI</b>.
+This repository contains codebase for the image segmentation task as part of our project titled <b>OncoScan AI</b>.
 
 Following is the description of the individual pages of the interface - 
 
